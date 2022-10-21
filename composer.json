@@ -1,0 +1,17 @@
+{
+    "name": "wilder/composer3",
+    "autoload": {
+        "psr-4": {
+            "Wilder\\Composer3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "azerty",
+            "email": "azerty@gmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
